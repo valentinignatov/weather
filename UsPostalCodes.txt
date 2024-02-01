@@ -1,0 +1,1245 @@
+US	08015	Browns Mills	New Jersey	NJ
+US	08224	New Gretna	New Jersey	NJ
+US	08033	Haddonfield	New Jersey	NJ
+US	08043	Voorhees	New Jersey	NJ
+US	08825	Frenchtown	New Jersey	NJ
+US	08870	Readington	New Jersey	NJ
+US	08605	Trenton	New Jersey	NJ
+US	08879	South Amboy	New Jersey	NJ
+US	07726	Englishtown	New Jersey	NJ
+US	07740	Long Branch	New Jersey	NJ
+US	07747	Matawan	New Jersey	NJ
+US	07755	Oakhurst	New Jersey	NJ
+US	07045	Montville	New Jersey	NJ
+US	07866	Rockaway	New Jersey	NJ
+US	07950	Morris Plains	New Jersey	NJ
+US	08005	Barnegat	New Jersey	NJ
+US	08092	West Creek	New Jersey	NJ
+US	08835	Manville	New Jersey	NJ
+US	07061	Plainfield	New Jersey	NJ
+US	07206	Elizabethport	New Jersey	NJ
+US	07825	Blairstown	New Jersey	NJ
+US	87131	Albuquerque	New Mexico	NM
+US	88102	Clovis	New Mexico	NM
+US	88268	Whites City	New Mexico	NM
+US	88061	Silver City	New Mexico	NM
+US	87732	Mora	New Mexico	NM
+US	87533	Espanola	New Mexico	NM
+US	88130	Portales	New Mexico	NM
+US	87028	La Joya	New Mexico	NM
+US	87036	Mountainair	New Mexico	NM
+US	89014	Henderson	Nevada	NV
+US	89030	North Las Vegas	Nevada	NV
+US	89034	Mesquite	Nevada	NV
+US	89166	Las Vegas	Nevada	NV
+US	89169	Las Vegas	Nevada	NV
+US	89831	Mountain City	Nevada	NV
+US	89402	Crystal Bay	Nevada	NV
+US	89431	Sparks	Nevada	NV
+US	89433	Sun Valley	Nevada	NV
+US	89442	Wadsworth	Nevada	NV
+US	12147	Rensselaerville	New York	NY
+US	12260	Albany	New York	NY
+US	14880	Scio	New York	NY
+US	10451	Bronx	New York	NY
+US	10472	Bronx	New York	NY
+US	14760	Olean	New York	NY
+US	13034	Cayuga	New York	NY
+US	13147	Scipio Center	New York	NY
+US	14048	Dunkirk	New York	NY
+US	14062	Forestville	New York	NY
+US	14740	Gerry	New York	NY
+US	13332	Earlville	New York	NY
+US	12919	Champlain	New York	NY
+US	12992	West Chazy	New York	NY
+US	12523	Elizaville	New York	NY
+US	12430	Fleischmanns	New York	NY
+US	13838	Sidney	New York	NY
+US	14034	Collins	New York	NY
+US	14102	Marilla	New York	NY
+US	14134	Sardinia	New York	NY
+US	14206	Buffalo	New York	NY
+US	12855	North Hudson	New York	NY
+US	12975	Port Kent	New York	NY
+US	12957	Moira	New York	NY
+US	12983	Saranac Lake	New York	NY
+US	14143	Stafford	New York	NY
+US	14525	Pavilion	New York	NY
+US	12192	West Coxsackie	New York	NY
+US	12492	West Kill	New York	NY
+US	13607	Alexandria Bay	New York	NY
+US	11235	Brooklyn	New York	NY
+US	14608	Rochester	New York	NY
+US	14650	Rochester	New York	NY
+US	11554	East Meadow	New York	NY
+US	11559	Lawrence	New York	NY
+US	11579	Sea Cliff	New York	NY
+US	11732	East Norwich	New York	NY
+US	10002	New York	New York	NY
+US	10075	New York	New York	NY
+US	10138	New York	New York	NY
+US	10151	New York	New York	NY
+US	10152	New York	New York	NY
+US	10160	New York	New York	NY
+US	10172	New York	New York	NY
+US	10261	New York	New York	NY
+US	10276	New York	New York	NY
+US	14174	Youngstown	New York	NY
+US	14302	Niagara Falls	New York	NY
+US	13309	Boonville	New York	NY
+US	13210	Syracuse	New York	NY
+US	14443	East Bloomfield	New York	NY
+US	10918	Chester	New York	NY
+US	10922	Fort Montgomery	New York	NY
+US	10928	Highland Falls	New York	NY
+US	12584	Vails Gate	New York	NY
+US	14470	Holley	New York	NY
+US	13107	Maple View	New York	NY
+US	13144	Richland	New York	NY
+US	13426	Orwell	New York	NY
+US	12155	Schenevus	New York	NY
+US	13333	East Springfield	New York	NY
+US	11372	Jackson Heights	New York	NY
+US	11412	Saint Albans	New York	NY
+US	11432	Jamaica	New York	NY
+US	11436	Jamaica	New York	NY
+US	12028	Buskirk	New York	NY
+US	12094	Johnsonville	New York	NY
+US	12973	Piercefield	New York	NY
+US	13687	South Colton	New York	NY
+US	13695	Wanakena	New York	NY
+US	13699	Potsdam	New York	NY
+US	12141	Quaker Street	New York	NY
+US	12031	Carlisle	New York	NY
+US	13165	Waterloo	New York	NY
+US	14541	Romulus	New York	NY
+US	14860	Lodi	New York	NY
+US	14810	Bath	New York	NY
+US	14877	Rexville	New York	NY
+US	11706	Bay Shore	New York	NY
+US	11715	Blue Point	New York	NY
+US	11722	Central Islip	New York	NY
+US	11739	Great River	New York	NY
+US	11796	West Sayville	New York	NY
+US	12724	Callicoon Center	New York	NY
+US	12777	Forestburgh	New York	NY
+US	12786	White Lake	New York	NY
+US	12791	Youngsville	New York	NY
+US	14854	Jacksonville	New York	NY
+US	12411	Bloomington	New York	NY
+US	12412	Boiceville	New York	NY
+US	12568	Plattekill	New York	NY
+US	12821	Comstock	New York	NY
+US	14563	Union Hill	New York	NY
+US	10511	Buchanan	New York	NY
+US	10522	Dobbs Ferry	New York	NY
+US	10540	Lincolndale	New York	NY
+US	10566	Peekskill	New York	NY
+US	10573	Port Chester	New York	NY
+US	10710	Yonkers	New York	NY
+US	14544	Rushville	New York	NY
+US	44842	Loudonville	Ohio	OH
+US	45739	Hockingport	Ohio	OH
+US	45806	Lima	Ohio	OH
+US	45245	Cincinnati	Ohio	OH
+US	44492	West Point	Ohio	OH
+US	44124	Cleveland	Ohio	OH
+US	44127	Cleveland	Ohio	OH
+US	44138	Olmsted Falls	Ohio	OH
+US	45390	Union City	Ohio	OH
+US	43074	Sunbury	Ohio	OH
+US	44839	Huron	Ohio	OH
+US	44080	Parkman	Ohio	OH
+US	45387	Yellow Springs	Ohio	OH
+US	45233	Cincinnati	Ohio	OH
+US	45271	Cincinnati	Ohio	OH
+US	45816	Benton Ridge	Ohio	OH
+US	43340	Mount Victory	Ohio	OH
+US	43976	Hopedale	Ohio	OH
+US	43524	Hamler	Ohio	OH
+US	43545	Napoleon	Ohio	OH
+US	45133	Hillsboro	Ohio	OH
+US	45135	Leesburg	Ohio	OH
+US	44661	Nashville	Ohio	OH
+US	43908	Bergholz	Ohio	OH
+US	43014	Danville	Ohio	OH
+US	43027	Homer	Ohio	OH
+US	43617	Toledo	Ohio	OH
+US	43657	Toledo	Ohio	OH
+US	43667	Toledo	Ohio	OH
+US	44514	Youngstown	Ohio	OH
+US	43332	La Rue	Ohio	OH
+US	44280	Valley City	Ohio	OH
+US	45769	Pomeroy	Ohio	OH
+US	45318	Covington	Ohio	OH
+US	45359	Pleasant Hill	Ohio	OH
+US	45428	Dayton	Ohio	OH
+US	45439	Dayton	Ohio	OH
+US	43788	Summerfield	Ohio	OH
+US	43452	Port Clinton	Ohio	OH
+US	45613	Beaver	Ohio	OH
+US	44201	Atwater	Ohio	OH
+US	44234	Hiram	Ohio	OH
+US	43435	Helena	Ohio	OH
+US	45336	Kettlersville	Ohio	OH
+US	44662	Navarre	Ohio	OH
+US	44216	Clinton	Ohio	OH
+US	44307	Akron	Ohio	OH
+US	44313	Akron	Ohio	OH
+US	44372	Akron	Ohio	OH
+US	44402	Bristolville	Ohio	OH
+US	45744	Lowell	Ohio	OH
+US	45750	Marietta	Ohio	OH
+US	44618	Dalton	Ohio	OH
+US	43403	Bowling Green	Ohio	OH
+US	43437	Jerry City	Ohio	OH
+US	74960	Stilwell	Oklahoma	OK
+US	73744	Hitchcock	Oklahoma	OK
+US	73772	Watonga	Oklahoma	OK
+US	74748	Kenefic	Oklahoma	OK
+US	73481	Ratliff City	Oklahoma	OK
+US	74760	Spencerville	Oklahoma	OK
+US	73727	Carrier	Oklahoma	OK
+US	73554	Mangum	Oklahoma	OK
+US	73537	Eldorado	Oklahoma	OK
+US	73461	Wapanucka	Oklahoma	OK
+US	74647	Newkirk	Oklahoma	OK
+US	73734	Dover	Oklahoma	OK
+US	73756	Loyal	Oklahoma	OK
+US	74930	Bokoshe	Oklahoma	OK
+US	74932	Cameron	Oklahoma	OK
+US	74939	Hodgen	Oklahoma	OK
+US	74026	Davenport	Oklahoma	OK
+US	74869	Sparks	Oklahoma	OK
+US	73159	Oklahoma City	Oklahoma	OK
+US	74074	Stillwater	Oklahoma	OK
+US	74554	Krebs	Oklahoma	OK
+US	74560	Pittsburg	Oklahoma	OK
+US	74073	Sperry	Oklahoma	OK
+US	74149	Tulsa	Oklahoma	OK
+US	74193	Tulsa	Oklahoma	OK
+US	97103	Astoria	Oregon	OR
+US	97145	Tolovana Park	Oregon	OR
+US	97411	Bandon	Oregon	OR
+US	97709	Bend	Oregon	OR
+US	97435	Drain	Oregon	OR
+US	97462	Oakland	Oregon	OR
+US	97484	Tiller	Oregon	OR
+US	97721	Princeton	Oregon	OR
+US	97732	Crane	Oregon	OR
+US	97501	Medford	Oregon	OR
+US	97734	Culver	Oregon	OR
+US	97627	Keno	Oregon	OR
+US	97424	Cottage Grove	Oregon	OR
+US	97351	Independence	Oregon	OR
+US	97859	Meacham	Oregon	OR
+US	15210	Pittsburgh	Pennsylvania	PA
+US	15216	Pittsburgh	Pennsylvania	PA
+US	15218	Pittsburgh	Pennsylvania	PA
+US	15244	Pittsburgh	Pennsylvania	PA
+US	15265	Pittsburgh	Pennsylvania	PA
+US	15673	North Apollo	Pennsylvania	PA
+US	16261	Widnoon	Pennsylvania	PA
+US	15010	Beaver Falls	Pennsylvania	PA
+US	15052	Industry	Pennsylvania	PA
+US	16679	Six Mile Run	Pennsylvania	PA
+US	19508	Birdsboro	Pennsylvania	PA
+US	19607	Reading	Pennsylvania	PA
+US	16603	Altoona	Pennsylvania	PA
+US	16637	East Freedom	Pennsylvania	PA
+US	16945	Sylvania	Pennsylvania	PA
+US	18916	Danboro	Pennsylvania	PA
+US	18974	Warminster	Pennsylvania	PA
+US	19067	Morrisville	Pennsylvania	PA
+US	16059	Valencia	Pennsylvania	PA
+US	19380	West Chester	Pennsylvania	PA
+US	19470	Saint Peters	Pennsylvania	PA
+US	16627	Coalport	Pennsylvania	PA
+US	16860	Munson	Pennsylvania	PA
+US	19094	Woodlyn	Pennsylvania	PA
+US	19331	Concordville	Pennsylvania	PA
+US	15870	Wilcox	Pennsylvania	PA
+US	16503	Erie	Pennsylvania	PA
+US	16563	Erie	Pennsylvania	PA
+US	15456	Lemont Furnace	Pennsylvania	PA
+US	15473	Perryopolis	Pennsylvania	PA
+US	17212	Big Cove Tannery	Pennsylvania	PA
+US	17260	Shirleysburg	Pennsylvania	PA
+US	15731	Coral	Pennsylvania	PA
+US	15734	Dixonville	Pennsylvania	PA
+US	15741	Gipsy	Pennsylvania	PA
+US	15772	Rossiter	Pennsylvania	PA
+US	15744	Hamilton	Pennsylvania	PA
+US	17022	Elizabethtown	Pennsylvania	PA
+US	17536	Kirkwood	Pennsylvania	PA
+US	17568	Refton	Pennsylvania	PA
+US	16103	New Castle	Pennsylvania	PA
+US	16132	Hillsville	Pennsylvania	PA
+US	17039	Kleinfeltersville	Pennsylvania	PA
+US	18052	Whitehall	Pennsylvania	PA
+US	18239	Milnesville	Pennsylvania	PA
+US	18769	Wilkes Barre	Pennsylvania	PA
+US	17701	Williamsport	Pennsylvania	PA
+US	16151	Sheakleyville	Pennsylvania	PA
+US	18327	Delaware Water Gap	Pennsylvania	PA
+US	18334	Long Pond	Pennsylvania	PA
+US	18341	Minisink Hills	Pennsylvania	PA
+US	18070	Palm	Pennsylvania	PA
+US	19002	Ambler	Pennsylvania	PA
+US	19477	Spring House	Pennsylvania	PA
+US	18045	Easton	Pennsylvania	PA
+US	18067	Northampton	Pennsylvania	PA
+US	18086	Treichlers	Pennsylvania	PA
+US	17865	Potts Grove	Pennsylvania	PA
+US	19107	Philadelphia	Pennsylvania	PA
+US	19154	Philadelphia	Pennsylvania	PA
+US	17964	Pitman	Pennsylvania	PA
+US	17982	Tuscarora	Pennsylvania	PA
+US	18220	Delano	Pennsylvania	PA
+US	17882	Troxelville	Pennsylvania	PA
+US	15538	Fairhope	Pennsylvania	PA
+US	15541	Friedens	Pennsylvania	PA
+US	15551	Markleton	Pennsylvania	PA
+US	15928	Davidsville	Pennsylvania	PA
+US	16912	Blossburg	Pennsylvania	PA
+US	16352	Tiona	Pennsylvania	PA
+US	15022	Charleroi	Pennsylvania	PA
+US	15311	Amity	Pennsylvania	PA
+US	15366	Van Voorhis	Pennsylvania	PA
+US	18445	Newfoundland	Pennsylvania	PA
+US	15663	Madison	Pennsylvania	PA
+US	17365	Wellsville	Pennsylvania	PA
+US	02825	Foster	Rhode Island	RI
+US	02912	Providence	Rhode Island	RI
+US	02812	Carolina	Rhode Island	RI
+US	29042	Denmark	South Carolina	SC
+US	29903	Beaufort	South Carolina	SC
+US	29101	Mc Bee	South Carolina	SC
+US	29584	Patrick	South Carolina	SC
+US	29583	Pamplico	South Carolina	SC
+US	29607	Greenville	South Carolina	SC
+US	29608	Greenville	South Carolina	SC
+US	29009	Bethune	South Carolina	SC
+US	29053	Gaston	South Carolina	SC
+US	29821	Clarks Hill	South Carolina	SC
+US	29108	Newberry	South Carolina	SC
+US	29641	Easley	South Carolina	SC
+US	29316	Boiling Springs	South Carolina	SC
+US	29322	Campobello	South Carolina	SC
+US	29388	Woodruff	South Carolina	SC
+US	29153	Sumter	South Carolina	SC
+US	29704	Catawba	South Carolina	SC
+US	29733	Rock Hill	South Carolina	SC
+US	57341	Gann Valley	South Dakota	SD
+US	57258	Raymond	South Dakota	SD
+US	57661	Whitehorse	South Dakota	SD
+US	57269	Twin Brooks	South Dakota	SD
+US	57538	Herrick	South Dakota	SD
+US	57052	Olivet	South Dakota	SD
+US	57366	Parkston	South Dakota	SD
+US	57365	Oacoma	South Dakota	SD
+US	57718	Black Hawk	South Dakota	SD
+US	57003	Baltic	South Dakota	SD
+US	57024	Egan	South Dakota	SD
+US	57279	Wilmot	South Dakota	SD
+US	57794	Wounded Knee	South Dakota	SD
+US	57043	Marion	South Dakota	SD
+US	37161	Shelbyville	Tennessee	TN
+US	37162	Shelbyville	Tennessee	TN
+US	38347	Jacks Creek	Tennessee	TN
+US	38575	Moss	Tennessee	TN
+US	38557	Crossville	Tennessee	TN
+US	37070	Goodlettsville	Tennessee	TN
+US	37214	Nashville	Tennessee	TN
+US	37215	Nashville	Tennessee	TN
+US	37216	Nashville	Tennessee	TN
+US	37221	Nashville	Tennessee	TN
+US	38363	Parsons	Tennessee	TN
+US	37345	Huntland	Tennessee	TN
+US	37376	Sherwood	Tennessee	TN
+US	38233	Kenton	Tennessee	TN
+US	38477	Prospect	Tennessee	TN
+US	37818	Mosheim	Tennessee	TN
+US	37304	Bakewell	Tennessee	TN
+US	37416	Chattanooga	Tennessee	TN
+US	37419	Chattanooga	Tennessee	TN
+US	37760	Jefferson City	Tennessee	TN
+US	37849	Powell	Tennessee	TN
+US	37142	Palmyra	Tennessee	TN
+US	38502	Cookeville	Tennessee	TN
+US	38505	Cookeville	Tennessee	TN
+US	38083	Millington	Tennessee	TN
+US	38103	Memphis	Tennessee	TN
+US	38133	Memphis	Tennessee	TN
+US	38184	Memphis	Tennessee	TN
+US	78008	Campbellton	Texas	TX
+US	77485	Wallis	Texas	TX
+US	78621	Elgin	Texas	TX
+US	78212	San Antonio	Texas	TX
+US	78224	San Antonio	Texas	TX
+US	78232	San Antonio	Texas	TX
+US	78260	San Antonio	Texas	TX
+US	75599	Texarkana	Texas	TX
+US	77842	College Station	Texas	TX
+US	78353	Encino	Texas	TX
+US	76432	Blanket	Texas	TX
+US	76804	Brownwood	Texas	TX
+US	78661	Prairie Lea	Texas	TX
+US	75556	Bloomburg	Texas	TX
+US	75772	Maydelle	Texas	TX
+US	75785	Rusk	Texas	TX
+US	76873	Rockwood	Texas	TX
+US	75164	Josephine	Texas	TX
+US	79251	Quail	Texas	TX
+US	78163	Bulverde	Texas	TX
+US	76522	Copperas Cove	Texas	TX
+US	76561	Oglesby	Texas	TX
+US	75054	Grand Prairie	Texas	TX
+US	75159	Seagoville	Texas	TX
+US	75181	Mesquite	Texas	TX
+US	75185	Mesquite	Texas	TX
+US	75207	Dallas	Texas	TX
+US	75267	Dallas	Texas	TX
+US	75022	Flower Mound	Texas	TX
+US	76209	Denton	Texas	TX
+US	76258	Pilot Point	Texas	TX
+US	78141	Nordheim	Texas	TX
+US	76448	Eastland	Texas	TX
+US	75119	Ennis	Texas	TX
+US	79913	El Paso	Texas	TX
+US	79917	El Paso	Texas	TX
+US	88546	El Paso	Texas	TX
+US	88568	El Paso	Texas	TX
+US	88578	El Paso	Texas	TX
+US	88590	El Paso	Texas	TX
+US	75439	Ector	Texas	TX
+US	75476	Ravenna	Texas	TX
+US	77517	Santa Fe	Texas	TX
+US	75076	Pottsboro	Texas	TX
+US	76264	Sadler	Texas	TX
+US	75660	Judson	Texas	TX
+US	77876	Shiro	Texas	TX
+US	79041	Hale Center	Texas	TX
+US	79072	Plainview	Texas	TX
+US	77067	Houston	Texas	TX
+US	77091	Houston	Texas	TX
+US	77207	Houston	Texas	TX
+US	77213	Houston	Texas	TX
+US	77234	Houston	Texas	TX
+US	77241	Houston	Texas	TX
+US	77244	Houston	Texas	TX
+US	77275	Houston	Texas	TX
+US	77339	Kingwood	Texas	TX
+US	77345	Kingwood	Texas	TX
+US	77389	Spring	Texas	TX
+US	75671	Marshall	Texas	TX
+US	78505	Mcallen	Texas	TX
+US	78560	La Joya	Texas	TX
+US	76622	Aquilla	Texas	TX
+US	76048	Granbury	Texas	TX
+US	75858	Ratcliff	Texas	TX
+US	79748	Knott	Texas	TX
+US	77713	Beaumont	Texas	TX
+US	78332	Alice	Texas	TX
+US	76061	Lillian	Texas	TX
+US	78116	Gillett	Texas	TX
+US	77964	Hallettsville	Texas	TX
+US	77986	Sublime	Texas	TX
+US	76708	Waco	Texas	TX
+US	78007	Calliham	Texas	TX
+US	79710	Midland	Texas	TX
+US	77316	Montgomery	Texas	TX
+US	77356	Montgomery	Texas	TX
+US	77385	Conroe	Texas	TX
+US	75144	Kerens	Texas	TX
+US	79537	Nolan	Texas	TX
+US	76449	Graford	Texas	TX
+US	76082	Springtown	Texas	TX
+US	79117	Amarillo	Texas	TX
+US	75554	Avery	Texas	TX
+US	75653	Henderson	Texas	TX
+US	76936	Eldorado	Texas	TX
+US	75702	Tyler	Texas	TX
+US	76103	Fort Worth	Texas	TX
+US	76166	Fort Worth	Texas	TX
+US	76198	Fort Worth	Texas	TX
+US	79697	Abilene	Texas	TX
+US	75455	Mount Pleasant	Texas	TX
+US	76908	Goodfellow Afb	Texas	TX
+US	78747	Austin	Texas	TX
+US	78751	Austin	Texas	TX
+US	78843	Laughlin Afb	Texas	TX
+US	77367	Riverside	Texas	TX
+US	77834	Brenham	Texas	TX
+US	78369	Mirando City	Texas	TX
+US	77488	Wharton	Texas	TX
+US	78682	Round Rock	Texas	TX
+US	78872	La Pryor	Texas	TX
+US	84327	Newton	Utah	UT
+US	84041	Layton	Utah	UT
+US	84075	Syracuse	Utah	UT
+US	84031	Hanna	Utah	UT
+US	84072	Tabiona	Utah	UT
+US	84513	Castle Dale	Utah	UT
+US	84648	Nephi	Utah	UT
+US	84635	Hinckley	Utah	UT
+US	84038	Laketown	Utah	UT
+US	84093	Sandy	Utah	UT
+US	84104	Salt Lake City	Utah	UT
+US	84107	Salt Lake City	Utah	UT
+US	84108	Salt Lake City	Utah	UT
+US	84189	Salt Lake City	Utah	UT
+US	84199	Salt Lake City	Utah	UT
+US	84531	Mexican Hat	Utah	UT
+US	84665	Sterling	Utah	UT
+US	84078	Vernal	Utah	UT
+US	23308	Bloxom	Virginia	VA
+US	23409	Mears	Virginia	VA
+US	23441	Tasley	Virginia	VA
+US	22242	Arlington	Virginia	VA
+US	24639	Raven	Virginia	VA
+US	22428	Bowling Green	Virginia	VA
+US	22546	Ruther Glen	Virginia	VA
+US	22552	Sparta	Virginia	VA
+US	23967	Saxe	Virginia	VA
+US	23112	Midlothian	Virginia	VA
+US	23113	Midlothian	Virginia	VA
+US	22736	Richardsville	Virginia	VA
+US	22741	Stevensburg	Virginia	VA
+US	24272	Nora	Virginia	VA
+US	23115	Millers Tavern	Virginia	VA
+US	22035	Fairfax	Virginia	VA
+US	22118	Merrifield	Virginia	VA
+US	20140	Rectortown	Virginia	VA
+US	22639	Hume	Virginia	VA
+US	22654	Star Tannery	Virginia	VA
+US	23039	Crozier	Virginia	VA
+US	23228	Henrico	Virginia	VA
+US	24054	Axton	Virginia	VA
+US	23188	Williamsburg	Virginia	VA
+US	23941	Fort Mitchell	Virginia	VA
+US	23138	Port Haywood	Virginia	VA
+US	24529	Buffalo Junction	Virginia	VA
+US	23149	Saluda	Virginia	VA
+US	23124	New Kent	Virginia	VA
+US	23140	Providence Forge	Virginia	VA
+US	22923	Barboursville	Virginia	VA
+US	24557	Gretna	Virginia	VA
+US	22740	Sperryville	Virginia	VA
+US	24472	Raphine	Virginia	VA
+US	24260	Honaker	Virginia	VA
+US	22641	Strasburg	Virginia	VA
+US	22824	Edinburg	Virginia	VA
+US	22845	Orkney Springs	Virginia	VA
+US	23691	Yorktown	Virginia	VA
+US	22331	Alexandria	Virginia	VA
+US	23663	Hampton	Virginia	VA
+US	23667	Hampton	Virginia	VA
+US	24502	Lynchburg	Virginia	VA
+US	23601	Newport News	Virginia	VA
+US	23606	Newport News	Virginia	VA
+US	23608	Newport News	Virginia	VA
+US	23504	Norfolk	Virginia	VA
+US	23507	Norfolk	Virginia	VA
+US	23705	Portsmouth	Virginia	VA
+US	23187	Williamsburg	Virginia	VA
+US	05477	Richmond	Vermont	VT
+US	05045	Fairlee	Vermont	VT
+US	05750	Hydeville	Vermont	VT
+US	05304	Brattleboro	Vermont	VT
+US	05360	West Wardsboro	Vermont	VT
+US	05361	Whitingham	Vermont	VT
+US	05032	Bethel	Vermont	VT
+US	05052	North Hartland	Vermont	VT
+US	05156	Springfield	Vermont	VT
+US	99345	Paterson	Washington	WA
+US	99350	Prosser	Washington	WA
+US	98606	Brush Prairie	Washington	WA
+US	99335	Kahlotus	Washington	WA
+US	98541	Elma	Washington	WA
+US	98358	Nordland	Washington	WA
+US	98113	Seattle	Washington	WA
+US	98386	Southworth	Washington	WA
+US	99322	Bickleton	Washington	WA
+US	99144	Lamona	Washington	WA
+US	98554	Lebam	Washington	WA
+US	98590	Tokeland	Washington	WA
+US	98614	Chinook	Washington	WA
+US	98332	Gig Harbor	Washington	WA
+US	98464	Tacoma	Washington	WA
+US	98235	Clearlake	Washington	WA
+US	98505	Olympia	Washington	WA
+US	98921	Buena	Washington	WA
+US	54180	Wrightstown	Wisconsin	WI
+US	54229	New Franken	Wisconsin	WI
+US	54732	Cornell	Wisconsin	WI
+US	53706	Madison	Wisconsin	WI
+US	54120	Fence	Wisconsin	WI
+US	53521	Brooklyn	Wisconsin	WI
+US	54525	Gile	Wisconsin	WI
+US	54646	Necedah	Wisconsin	WI
+US	53140	Kenosha	Wisconsin	WI
+US	54214	Francis Creek	Wisconsin	WI
+US	54221	Manitowoc	Wisconsin	WI
+US	54228	Mishicot	Wisconsin	WI
+US	53206	Milwaukee	Wisconsin	WI
+US	53259	Milwaukee	Wisconsin	WI
+US	53268	Milwaukee	Wisconsin	WI
+US	53290	Milwaukee	Wisconsin	WI
+US	54124	Gillett	Wisconsin	WI
+US	54136	Kimberly	Wisconsin	WI
+US	54481	Stevens Point	Wisconsin	WI
+US	54921	Bancroft	Wisconsin	WI
+US	53512	Beloit	Wisconsin	WI
+US	54738	Eleva	Wisconsin	WI
+US	53148	Lyons	Wisconsin	WI
+US	53040	Kewaskum	Wisconsin	WI
+US	53029	Hartland	Wisconsin	WI
+US	54962	Ogdensburg	Wisconsin	WI
+US	25440	Ridgeway	West Virginia	WV
+US	25024	Bloomingrose	West Virginia	WV
+US	25702	Huntington	West Virginia	WV
+US	25707	Huntington	West Virginia	WV
+US	25719	Huntington	West Virginia	WV
+US	25775	Huntington	West Virginia	WV
+US	25141	Nebo	West Virginia	WV
+US	25854	Hico	West Virginia	WV
+US	24901	Lewisburg	West Virginia	WV
+US	25984	Rupert	West Virginia	WV
+US	26761	Shanks	West Virginia	WV
+US	26836	Moorefield	West Virginia	WV
+US	25305	Charleston	West Virginia	WV
+US	25358	Charleston	West Virginia	WV
+US	25624	Henlawson	West Virginia	WV
+US	25647	Switzer	West Virginia	WV
+US	24881	Roderfield	West Virginia	WV
+US	26554	Fairmont	West Virginia	WV
+US	26588	Rivesville	West Virginia	WV
+US	26040	Mcmechen	West Virginia	WV
+US	24733	Lashmeet	West Virginia	WV
+US	25971	Lerona	West Virginia	WV
+US	25650	Verner	West Virginia	WV
+US	25843	Ghent	West Virginia	WV
+US	26161	Petroleum	West Virginia	WV
+US	25511	Dunlow	West Virginia	WV
+US	25517	Genoa	West Virginia	WV
+US	26159	Paden City	West Virginia	WV
+US	26562	Burton	West Virginia	WV
+US	24834	Fanrock	West Virginia	WV
+US	24860	Matheny	West Virginia	WV
+US	25826	Corinne	West Virginia	WV
+US	82229	Shawnee	Wyoming	WY
+US	82510	Arapahoe	Wyoming	WY
+US	82512	Crowheart	Wyoming	WY
+US	82003	Cheyenne	Wyoming	WY
+US	82007	Cheyenne	Wyoming	WY
+US	82838	Parkman	Wyoming	WY
+US	82902	Rock Springs	Wyoming	WY
+US	08210	Cape May Court House	New Jersey	NJ
+US	07006	Caldwell	New Jersey	NJ
+US	07007	Caldwell	New Jersey	NJ
+US	08536	Plainsboro	New Jersey	NJ
+US	08863	Fords	New Jersey	NJ
+US	07403	Bloomingdale	New Jersey	NJ
+US	07420	Haskell	New Jersey	NJ
+US	07465	Wanaque	New Jersey	NJ
+US	07511	Totowa	New Jersey	NJ
+US	07938	Liberty Corner	New Jersey	NJ
+US	07462	Vernon	New Jersey	NJ
+US	07837	Glasser	New Jersey	NJ
+US	07208	Elizabeth	New Jersey	NJ
+US	07902	Summit	New Jersey	NJ
+US	87005	Bluewater	New Mexico	NM
+US	87718	Eagle Nest	New Mexico	NM
+US	88047	Mesilla Park	New Mexico	NM
+US	87733	Mosquero	New Mexico	NM
+US	88252	Jal	New Mexico	NM
+US	88265	Monument	New Mexico	NM
+US	88343	Picacho	New Mexico	NM
+US	87045	Prewitt	New Mexico	NM
+US	87305	Gallup	New Mexico	NM
+US	87516	Canones	New Mexico	NM
+US	87518	Cebolla	New Mexico	NM
+US	88132	Rogers	New Mexico	NM
+US	87401	Farmington	New Mexico	NM
+US	87901	Truth Or Consequences	New Mexico	NM
+US	87943	Winston	New Mexico	NM
+US	87521	Chamisal	New Mexico	NM
+US	87034	Pueblo Of Acoma	New Mexico	NM
+US	89033	North Las Vegas	Nevada	NV
+US	89136	Las Vegas	Nevada	NV
+US	89180	Las Vegas	Nevada	NV
+US	89316	Eureka	Nevada	NV
+US	89427	Schurz	Nevada	NV
+US	89318	Mc Gill	Nevada	NV
+US	12059	East Berne	New York	NY
+US	12193	Westerlo	New York	NY
+US	14745	Hume	New York	NY
+US	10459	Bronx	New York	NY
+US	10475	Bronx	New York	NY
+US	14129	Perrysburg	New York	NY
+US	14730	East Randolph	New York	NY
+US	14788	Westons Mills	New York	NY
+US	13160	Union Springs	New York	NY
+US	14769	Portland	New York	NY
+US	13809	Mount Upton	New York	NY
+US	12955	Lyon Mountain	New York	NY
+US	12978	Redford	New York	NY
+US	12421	Denver	New York	NY
+US	13782	Hamden	New York	NY
+US	12572	Rhinebeck	New York	NY
+US	14141	Springville	New York	NY
+US	14210	Buffalo	New York	NY
+US	14261	Buffalo	New York	NY
+US	12928	Crown Point	New York	NY
+US	12936	Essex	New York	NY
+US	12950	Lewis	New York	NY
+US	12970	Paul Smiths	New York	NY
+US	14005	Alexander	New York	NY
+US	13602	Fort Drum	New York	NY
+US	13656	La Fargeville	New York	NY
+US	11228	Brooklyn	New York	NY
+US	11251	Brooklyn	New York	NY
+US	14485	Lima	New York	NY
+US	13043	Clockville	New York	NY
+US	14643	Rochester	New York	NY
+US	14649	Rochester	New York	NY
+US	12069	Fort Hunter	New York	NY
+US	12166	Sprakers	New York	NY
+US	13317	Canajoharie	New York	NY
+US	11001	Floral Park	New York	NY
+US	11003	Elmont	New York	NY
+US	11026	Great Neck	New York	NY
+US	11030	Manhasset	New York	NY
+US	10115	New York	New York	NY
+US	10179	New York	New York	NY
+US	14305	Niagara Falls	New York	NY
+US	13054	Durhamville	New York	NY
+US	13304	Barneveld	New York	NY
+US	13417	New York Mills	New York	NY
+US	13456	Sauquoit	New York	NY
+US	13476	Vernon	New York	NY
+US	13063	Fabius	New York	NY
+US	13204	Syracuse	New York	NY
+US	10914	Blooming Grove	New York	NY
+US	10979	Sterling Forest	New York	NY
+US	12577	Salisbury Mills	New York	NY
+US	12116	Maryland	New York	NY
+US	12197	Worcester	New York	NY
+US	11411	Cambria Heights	New York	NY
+US	12140	Poestenkill	New York	NY
+US	10980	Stony Point	New York	NY
+US	12020	Ballston Spa	New York	NY
+US	12803	South Glens Falls	New York	NY
+US	12122	Middleburgh	New York	NY
+US	12187	Warnerville	New York	NY
+US	14863	Mecklenburg	New York	NY
+US	14839	Greenwood	New York	NY
+US	14855	Jasper	New York	NY
+US	11738	Farmingville	New York	NY
+US	11939	East Marion	New York	NY
+US	11948	Laurel	New York	NY
+US	11968	Southampton	New York	NY
+US	12749	Kauneonga Lake	New York	NY
+US	12759	Loch Sheldrake	New York	NY
+US	12760	Long Eddy	New York	NY
+US	12792	Yulan	New York	NY
+US	13734	Barton	New York	NY
+US	14892	Waverly	New York	NY
+US	13053	Dryden	New York	NY
+US	14850	Ithaca	New York	NY
+US	12401	Kingston	New York	NY
+US	12453	Malden On Hudson	New York	NY
+US	12465	Pine Hill	New York	NY
+US	12810	Athol	New York	NY
+US	14413	Alton	New York	NY
+US	14502	Macedon	New York	NY
+US	10545	Maryknoll	New York	NY
+US	10802	New Rochelle	New York	NY
+US	10803	Pelham	New York	NY
+US	14009	Arcade	New York	NY
+US	14167	Varysburg	New York	NY
+US	43713	Barnesville	Ohio	OH
+US	43937	Maynard	Ohio	OH
+US	45014	Fairfield	Ohio	OH
+US	45062	Seven Mile	Ohio	OH
+US	44860	Oceola	Ohio	OH
+US	44128	Cleveland	Ohio	OH
+US	43157	Thurston	Ohio	OH
+US	43017	Dublin	Ohio	OH
+US	43126	Harrisburg	Ohio	OH
+US	43194	Lockbourne	Ohio	OH
+US	43211	Columbus	Ohio	OH
+US	45217	Cincinnati	Ohio	OH
+US	45999	Cincinnati	Ohio	OH
+US	43974	Harrisville	Ohio	OH
+US	43550	Okolona	Ohio	OH
+US	45155	Mowrystown	Ohio	OH
+US	43925	East Springfield	Ohio	OH
+US	44061	Mentor	Ohio	OH
+US	43318	De Graff	Ohio	OH
+US	44055	Lorain	Ohio	OH
+US	43153	South Solon	Ohio	OH
+US	45772	Reedsville	Ohio	OH
+US	45317	Conover	Ohio	OH
+US	45315	Clayton	Ohio	OH
+US	45873	Oakwood	Ohio	OH
+US	43116	Commercial Point	Ohio	OH
+US	44243	Kent	Ohio	OH
+US	45856	Leipsic	Ohio	OH
+US	44907	Mansfield	Ohio	OH
+US	43101	Adelphi	Ohio	OH
+US	45360	Port Jefferson	Ohio	OH
+US	44711	Canton	Ohio	OH
+US	44224	Stow	Ohio	OH
+US	44438	Masury	Ohio	OH
+US	43804	Baltic	Ohio	OH
+US	45622	Creola	Ohio	OH
+US	43414	Dunbridge	Ohio	OH
+US	43467	West Millgrove	Ohio	OH
+US	43511	Custar	Ohio	OH
+US	43529	Hoytville	Ohio	OH
+US	73040	Geary	Oklahoma	OK
+US	73043	Greenfield	Oklahoma	OK
+US	73085	Yukon	Oklahoma	OK
+US	73435	Fox	Oklahoma	OK
+US	73558	Meers	Oklahoma	OK
+US	74369	Welch	Oklahoma	OK
+US	73667	Taloga	Oklahoma	OK
+US	73761	Nash	Oklahoma	OK
+US	73571	Vinson	Oklahoma	OK
+US	74432	Eufaula	Oklahoma	OK
+US	74340	Disney	Oklahoma	OK
+US	74470	Webbers Falls	Oklahoma	OK
+US	73020	Choctaw	Oklahoma	OK
+US	73106	Oklahoma City	Oklahoma	OK
+US	73107	Oklahoma City	Oklahoma	OK
+US	73127	Oklahoma City	Oklahoma	OK
+US	74802	Shawnee	Oklahoma	OK
+US	73491	Velma	Oklahoma	OK
+US	73536	Duncan	Oklahoma	OK
+US	74110	Tulsa	Oklahoma	OK
+US	74170	Tulsa	Oklahoma	OK
+US	74187	Tulsa	Oklahoma	OK
+US	74029	Dewey	Oklahoma	OK
+US	97018	Columbia City	Oregon	OR
+US	97056	Scappoose	Oregon	OR
+US	97414	Broadbent	Oregon	OR
+US	97708	Bend	Oregon	OR
+US	97503	White City	Oregon	OR
+US	97520	Ashland	Oregon	OR
+US	97640	Summer Lake	Oregon	OR
+US	97438	Fall Creek	Oregon	OR
+US	97475	Springfield	Oregon	OR
+US	97329	Cascadia	Oregon	OR
+US	97903	Brogan	Oregon	OR
+US	97303	Salem	Oregon	OR
+US	97310	Salem	Oregon	OR
+US	97342	Detroit	Oregon	OR
+US	97362	Mount Angel	Oregon	OR
+US	97086	Happy Valley	Oregon	OR
+US	97256	Portland	Oregon	OR
+US	97296	Portland	Oregon	OR
+US	97750	Mitchell	Oregon	OR
+US	17324	Gardners	Pennsylvania	PA
+US	15024	Cheswick	Pennsylvania	PA
+US	15116	Glenshaw	Pennsylvania	PA
+US	15126	Imperial	Pennsylvania	PA
+US	15223	Pittsburgh	Pennsylvania	PA
+US	15232	Pittsburgh	Pennsylvania	PA
+US	15239	Pittsburgh	Pennsylvania	PA
+US	15251	Pittsburgh	Pennsylvania	PA
+US	15539	Fishertown	Pennsylvania	PA
+US	15554	New Paris	Pennsylvania	PA
+US	16667	Osterburg	Pennsylvania	PA
+US	19512	Boyertown	Pennsylvania	PA
+US	19522	Fleetwood	Pennsylvania	PA
+US	19612	Reading	Pennsylvania	PA
+US	16662	Martinsburg	Pennsylvania	PA
+US	18815	Camptown	Pennsylvania	PA
+US	18980	Wycombe	Pennsylvania	PA
+US	19055	Levittown	Pennsylvania	PA
+US	16046	Mars	Pennsylvania	PA
+US	15915	Johnstown	Pennsylvania	PA
+US	15921	Beaverdale	Pennsylvania	PA
+US	15946	Portage	Pennsylvania	PA
+US	16675	Saint Boniface	Pennsylvania	PA
+US	15861	Sinnamahoning	Pennsylvania	PA
+US	18244	Parryville	Pennsylvania	PA
+US	19366	Pocopson	Pennsylvania	PA
+US	16214	Clarion	Pennsylvania	PA
+US	16248	Rimersburg	Pennsylvania	PA
+US	16260	Vowinckel	Pennsylvania	PA
+US	16863	Olanta	Pennsylvania	PA
+US	18631	Mifflinville	Pennsylvania	PA
+US	16110	Adamsville	Pennsylvania	PA
+US	16404	Centerville	Pennsylvania	PA
+US	17266	Walnut Bottom	Pennsylvania	PA
+US	19010	Bryn Mawr	Pennsylvania	PA
+US	19052	Lenni	Pennsylvania	PA
+US	15857	Saint Marys	Pennsylvania	PA
+US	16444	Edinboro	Pennsylvania	PA
+US	15460	Martin	Pennsylvania	PA
+US	15470	Ohiopyle	Pennsylvania	PA
+US	15327	Dilliner	Pennsylvania	PA
+US	15341	Holbrook	Pennsylvania	PA
+US	16634	Dudley	Pennsylvania	PA
+US	16654	Huntingdon	Pennsylvania	PA
+US	16256	Smicksburg	Pennsylvania	PA
+US	15840	Falls Creek	Pennsylvania	PA
+US	17508	Brownstown	Pennsylvania	PA
+US	17573	Ronks	Pennsylvania	PA
+US	19501	Adamstown	Pennsylvania	PA
+US	18034	Center Valley	Pennsylvania	PA
+US	18046	East Texas	Pennsylvania	PA
+US	18080	Slatington	Pennsylvania	PA
+US	18764	Wilkes Barre	Pennsylvania	PA
+US	17723	Jersey Shore	Pennsylvania	PA
+US	16727	Derrick City	Pennsylvania	PA
+US	18323	Buck Hill Falls	Pennsylvania	PA
+US	19096	Wynnewood	Pennsylvania	PA
+US	19525	Gilbertsville	Pennsylvania	PA
+US	17730	Dewart	Pennsylvania	PA
+US	17860	Paxinos	Pennsylvania	PA
+US	17868	Riverside	Pennsylvania	PA
+US	17062	Millerstown	Pennsylvania	PA
+US	17090	Shermans Dale	Pennsylvania	PA
+US	19108	Philadelphia	Pennsylvania	PA
+US	19125	Philadelphia	Pennsylvania	PA
+US	19135	Philadelphia	Pennsylvania	PA
+US	19162	Philadelphia	Pennsylvania	PA
+US	19191	Philadelphia	Pennsylvania	PA
+US	19192	Philadelphia	Pennsylvania	PA
+US	18451	Paupack	Pennsylvania	PA
+US	18464	Tafton	Pennsylvania	PA
+US	17948	Mahanoy City	Pennsylvania	PA
+US	17952	Mary D	Pennsylvania	PA
+US	17970	Saint Clair	Pennsylvania	PA
+US	19549	Port Clinton	Pennsylvania	PA
+US	15936	Hooversville	Pennsylvania	PA
+US	18626	Laporte	Pennsylvania	PA
+US	18628	Lopez	Pennsylvania	PA
+US	18825	Jackson	Pennsylvania	PA
+US	16342	Polk	Pennsylvania	PA
+US	15054	Langeloth	Pennsylvania	PA
+US	15323	Claysville	Pennsylvania	PA
+US	18456	Prompton	Pennsylvania	PA
+US	18462	Starrucca	Pennsylvania	PA
+US	15448	Jacobs Creek	Pennsylvania	PA
+US	15611	Adamsburg	Pennsylvania	PA
+US	15644	Jeannette	Pennsylvania	PA
+US	15646	Jones Mills	Pennsylvania	PA
+US	15684	Slickville	Pennsylvania	PA
+US	15685	Southwest	Pennsylvania	PA
+US	15697	Youngwood	Pennsylvania	PA
+US	15923	Bolivar	Pennsylvania	PA
+US	17364	Thomasville	Pennsylvania	PA
+US	29659	Lowndesville	South Carolina	SC
+US	29804	Aiken	South Carolina	SC
+US	29689	Townville	South Carolina	SC
+US	29941	Sheldon	South Carolina	SC
+US	29453	Jamestown	South Carolina	SC
+US	29402	Charleston	South Carolina	SC
+US	29724	Lando	South Carolina	SC
+US	29433	Canadys	South Carolina	SC
+US	29493	Williams	South Carolina	SC
+US	29472	Ridgeville	South Carolina	SC
+US	29652	Greer	South Carolina	SC
+US	29681	Simpsonville	South Carolina	SC
+US	29944	Varnville	South Carolina	SC
+US	29579	Myrtle Beach	South Carolina	SC
+US	29325	Clinton	South Carolina	SC
+US	29665	Newry	South Carolina	SC
+US	29105	Monetta	South Carolina	SC
+US	29320	Arcadia	South Carolina	SC
+US	57263	South Shore	South Dakota	SD
+US	57466	Onaka	South Dakota	SD
+US	57241	Hayti	South Dakota	SD
+US	57048	Montrose	South Dakota	SD
+US	57262	Sisseton	South Dakota	SD
+US	57440	Frankfort	South Dakota	SD
+US	57623	Dupree	South Dakota	SD
+US	37777	Louisville	Tennessee	TN
+US	37364	Cleveland	Tennessee	TN
+US	38324	Clarksburg	Tennessee	TN
+US	38390	Yuma	Tennessee	TN
+US	37843	Parrottsville	Tennessee	TN
+US	37235	Nashville	Tennessee	TN
+US	38059	Newbern	Tennessee	TN
+US	38036	Gallaway	Tennessee	TN
+US	38066	Rossville	Tennessee	TN
+US	37324	Decherd	Tennessee	TN
+US	37301	Altamont	Tennessee	TN
+US	37379	Soddy Daisy	Tennessee	TN
+US	37404	Chattanooga	Tennessee	TN
+US	38242	Paris	Tennessee	TN
+US	38375	Selmer	Tennessee	TN
+US	37150	Red Boiling Springs	Tennessee	TN
+US	38308	Jackson	Tennessee	TN
+US	38451	Culleoka	Tennessee	TN
+US	38580	Rickman	Tennessee	TN
+US	37864	Sevierville	Tennessee	TN
+US	38101	Memphis	Tennessee	TN
+US	38159	Memphis	Tennessee	TN
+US	37066	Gallatin	Tennessee	TN
+US	37148	Portland	Tennessee	TN
+US	38023	Drummonds	Tennessee	TN
+US	37866	Sharps Chapel	Tennessee	TN
+US	75763	Frankston	Texas	TX
+US	78950	New Ulm	Texas	TX
+US	78002	Atascosa	Texas	TX
+US	78023	Helotes	Texas	TX
+US	78264	San Antonio	Texas	TX
+US	78291	San Antonio	Texas	TX
+US	77430	Damon	Texas	TX
+US	78611	Burnet	Texas	TX
+US	75560	Douglassville	Texas	TX
+US	75566	Marietta	Texas	TX
+US	76878	Santa Anna	Texas	TX
+US	75097	Weston	Texas	TX
+US	77434	Eagle Lake	Texas	TX
+US	78943	Glidden	Texas	TX
+US	78135	New Braunfels	Texas	TX
+US	75182	Sunnyvale	Texas	TX
+US	75370	Dallas	Texas	TX
+US	75381	Dallas	Texas	TX
+US	75397	Dallas	Texas	TX
+US	79226	Clarendon	Texas	TX
+US	78384	San Diego	Texas	TX
+US	76883	Telegraph	Texas	TX
+US	79905	El Paso	Texas	TX
+US	79908	El Paso	Texas	TX
+US	79978	El Paso	Texas	TX
+US	88576	El Paso	Texas	TX
+US	75488	Telephone	Texas	TX
+US	75487	Talco	Texas	TX
+US	78017	Dilley	Texas	TX
+US	75491	Whitewright	Texas	TX
+US	76233	Collinsville	Texas	TX
+US	75602	Longview	Texas	TX
+US	78108	Cibolo	Texas	TX
+US	77009	Houston	Texas	TX
+US	77051	Houston	Texas	TX
+US	77071	Houston	Texas	TX
+US	77086	Houston	Texas	TX
+US	77205	Houston	Texas	TX
+US	77229	Houston	Texas	TX
+US	77254	Houston	Texas	TX
+US	77284	Houston	Texas	TX
+US	77287	Houston	Texas	TX
+US	77291	Houston	Texas	TX
+US	77391	Spring	Texas	TX
+US	77429	Cypress	Texas	TX
+US	77502	Pasadena	Texas	TX
+US	77530	Channelview	Texas	TX
+US	75661	Karnack	Texas	TX
+US	76627	Blum	Texas	TX
+US	75478	Saltillo	Texas	TX
+US	75481	Sulphur Bluff	Texas	TX
+US	75849	Latexo	Texas	TX
+US	76427	Bryson	Texas	TX
+US	77703	Beaumont	Texas	TX
+US	75126	Forney	Texas	TX
+US	75158	Scurry	Texas	TX
+US	75416	Blossom	Texas	TX
+US	75477	Roxton	Texas	TX
+US	79034	Follett	Texas	TX
+US	79410	Lubbock	Texas	TX
+US	79414	Lubbock	Texas	TX
+US	77404	Bay City	Texas	TX
+US	76841	Fort Mc Kavett	Texas	TX
+US	75960	Moscow	Texas	TX
+US	79105	Amarillo	Texas	TX
+US	79111	Amarillo	Texas	TX
+US	79159	Amarillo	Texas	TX
+US	79718	Balmorhea	Texas	TX
+US	77870	New Baden	Texas	TX
+US	75189	Royse City	Texas	TX
+US	75959	Milam	Texas	TX
+US	76877	San Saba	Texas	TX
+US	79527	Ira	Texas	TX
+US	76950	Sonora	Texas	TX
+US	76011	Arlington	Texas	TX
+US	76161	Fort Worth	Texas	TX
+US	76199	Fort Worth	Texas	TX
+US	79378	Wellman	Texas	TX
+US	76483	Throckmorton	Texas	TX
+US	76902	San Angelo	Texas	TX
+US	78712	Austin	Texas	TX
+US	78752	Austin	Texas	TX
+US	78779	Austin	Texas	TX
+US	76311	Sheppard Afb	Texas	TX
+US	76364	Harrold	Texas	TX
+US	78569	Lyford	Texas	TX
+US	78641	Leander	Texas	TX
+US	84301	Bear River City	Utah	UT
+US	84755	Mount Carmel	Utah	UT
+US	84631	Fillmore	Utah	UT
+US	84638	Leamington	Utah	UT
+US	84086	Woodruff	Utah	UT
+US	84119	West Valley City	Utah	UT
+US	84121	Salt Lake City	Utah	UT
+US	84125	Salt Lake City	Utah	UT
+US	84165	Salt Lake City	Utah	UT
+US	84773	Teasdale	Utah	UT
+US	84775	Torrey	Utah	UT
+US	84315	Hooper	Utah	UT
+US	84317	Huntsville	Utah	UT
+US	23401	Keller	Virginia	VA
+US	23427	Saxis	Virginia	VA
+US	22987	White Hall	Virginia	VA
+US	24562	Howardsville	Virginia	VA
+US	24460	Millboro	Virginia	VA
+US	23876	Rawlings	Virginia	VA
+US	23887	Valentines	Virginia	VA
+US	24647	Shortt Gap	Virginia	VA
+US	22501	Ladysmith	Virginia	VA
+US	24351	Lambsburg	Virginia	VA
+US	23923	Charlotte Court House	Virginia	VA
+US	23894	Wilsons	Virginia	VA
+US	24092	Glade Hill	Virginia	VA
+US	22637	Gore	Virginia	VA
+US	23003	Ark	Virginia	VA
+US	23102	Maidens	Virginia	VA
+US	24330	Fries	Virginia	VA
+US	24558	Halifax	Virginia	VA
+US	23424	Rescue	Virginia	VA
+US	23108	Mascot	Virginia	VA
+US	23093	Louisa	Virginia	VA
+US	23109	Mathews	Virginia	VA
+US	23163	Susan	Virginia	VA
+US	23043	Deltaville	Virginia	VA
+US	23176	Wake	Virginia	VA
+US	24060	Blacksburg	Virginia	VA
+US	24138	Pilot	Virginia	VA
+US	24549	Dry Fork	Virginia	VA
+US	22472	Haynesville	Virginia	VA
+US	22834	Linville	Virginia	VA
+US	24225	Cleveland	Virginia	VA
+US	22626	Fishers Hill	Virginia	VA
+US	24640	Red Ash	Virginia	VA
+US	23851	Franklin	Virginia	VA
+US	23664	Hampton	Virginia	VA
+US	23668	Hampton	Virginia	VA
+US	24514	Lynchburg	Virginia	VA
+US	20113	Manassas	Virginia	VA
+US	23511	Norfolk	Virginia	VA
+US	23223	Richmond	Virginia	VA
+US	23232	Richmond	Virginia	VA
+US	23291	Richmond	Virginia	VA
+US	24005	Roanoke	Virginia	VA
+US	24025	Roanoke	Virginia	VA
+US	23467	Virginia Beach	Virginia	VA
+US	05252	East Arlington	Vermont	VT
+US	05042	East Ryegate	Vermont	VT
+US	05819	Saint Johnsbury	Vermont	VT
+US	05871	West Burke	Vermont	VT
+US	05904	Gilman	Vermont	VT
+US	05655	Hyde Park	Vermont	VT
+US	05060	Randolph	Vermont	VT
+US	05075	Thetford Center	Vermont	VT
+US	05820	Albany	Vermont	VT
+US	05853	Morgan	Vermont	VT
+US	05860	Orleans	Vermont	VT
+US	05745	Forest Dale	Vermont	VT
+US	05759	North Clarendon	Vermont	VT
+US	05357	West Dummerston	Vermont	VT
+US	05362	Williamsville	Vermont	VT
+US	05001	White River Junction	Vermont	VT
+US	98847	Peshastin	Washington	WA
+US	98604	Battle Ground	Washington	WA
+US	98563	Montesano	Washington	WA
+US	98010	Black Diamond	Washington	WA
+US	98041	Bothell	Washington	WA
+US	98059	Renton	Washington	WA
+US	98115	Seattle	Washington	WA
+US	98119	Seattle	Washington	WA
+US	98170	Seattle	Washington	WA
+US	98370	Poulsbo	Washington	WA
+US	98377	Randle	Washington	WA
+US	98546	Grapeview	Washington	WA
+US	98555	Lilliwaup	Washington	WA
+US	98827	Loomis	Washington	WA
+US	98846	Pateros	Washington	WA
+US	98849	Riverside	Washington	WA
+US	98637	Nahcotta	Washington	WA
+US	98395	Wauna	Washington	WA
+US	98418	Tacoma	Washington	WA
+US	98447	Tacoma	Washington	WA
+US	98499	Lakewood	Washington	WA
+US	98245	Eastsound	Washington	WA
+US	98274	Mount Vernon	Washington	WA
+US	98252	Granite Falls	Washington	WA
+US	99005	Colbert	Washington	WA
+US	99018	Latah	Washington	WA
+US	99220	Spokane	Washington	WA
+US	99260	Spokane	Washington	WA
+US	99363	Wallula	Washington	WA
+US	54822	Cameron	Wisconsin	WI
+US	54162	Pulaski	Wisconsin	WI
+US	54208	Denmark	Wisconsin	WI
+US	54303	Green Bay	Wisconsin	WI
+US	54313	Green Bay	Wisconsin	WI
+US	54830	Danbury	Wisconsin	WI
+US	54169	Sherwood	Wisconsin	WI
+US	54849	Lake Nebagamon	Wisconsin	WI
+US	54873	Solon Springs	Wisconsin	WI
+US	54937	Fond Du Lac	Wisconsin	WI
+US	54971	Ripon	Wisconsin	WI
+US	54520	Crandon	Wisconsin	WI
+US	53518	Blue River	Wisconsin	WI
+US	53522	Browntown	Wisconsin	WI
+US	54448	Marathon	Wisconsin	WI
+US	53222	Milwaukee	Wisconsin	WI
+US	54101	Abrams	Wisconsin	WI
+US	54913	Appleton	Wisconsin	WI
+US	54919	Appleton	Wisconsin	WI
+US	54010	East Ellsworth	Wisconsin	WI
+US	54011	Ellsworth	Wisconsin	WI
+US	54837	Frederic	Wisconsin	WI
+US	53405	Racine	Wisconsin	WI
+US	53943	Loganville	Wisconsin	WI
+US	54867	Radisson	Wisconsin	WI
+US	53013	Cedar Grove	Wisconsin	WI
+US	54447	Lublin	Wisconsin	WI
+US	54470	Rib Lake	Wisconsin	WI
+US	54480	Stetsonville	Wisconsin	WI
+US	54625	Dodge	Wisconsin	WI
+US	54630	Galesville	Wisconsin	WI
+US	53005	Brookfield	Wisconsin	WI
+US	53018	Delafield	Wisconsin	WI
+US	54940	Fremont	Wisconsin	WI
+US	54977	Scandinavia	Wisconsin	WI
+US	54947	Larsen	Wisconsin	WI
+US	54466	Pittsville	Wisconsin	WI
+US	25049	Comfort	West Virginia	WV
+US	25711	Huntington	West Virginia	WV
+US	25268	Orma	West Virginia	WV
+US	25864	Layland	West Virginia	WV
+US	24910	Alderson	West Virginia	WV
+US	25958	Charmco	West Virginia	WV
+US	26845	Old Fields	West Virginia	WV
+US	26343	Crawford	West Virginia	WV
+US	25571	West Hamlin	West Virginia	WV
+US	25505	Big Creek	West Virginia	WV
+US	24848	Jenkinjones	West Virginia	WV
+US	24873	Paynesville	West Virginia	WV
+US	25841	Flat Top	West Virginia	WV
+US	24851	Justice	West Virginia	WV
+US	26543	Osage	West Virginia	WV
+US	26886	Onego	West Virginia	WV
+US	25526	Hurricane	West Virginia	WV
+US	25062	Dry Creek	West Virginia	WV
+US	25174	Rock Creek	West Virginia	WV
+US	25989	White Oak	West Virginia	WV
+US	26282	Monterville	West Virginia	WV
+US	25555	Prichard	West Virginia	WV
+US	26288	Webster Springs	West Virginia	WV
+US	26106	Parkersburg	West Virginia	WV
+US	82052	Buford	Wyoming	WY
+US	82426	Greybull	Wyoming	WY
+US	82642	Lysite	Wyoming	WY
+US	83101	Kemmerer	Wyoming	WY
+US	82609	Casper	Wyoming	WY
+US	82835	Clearmont	Wyoming	WY
+US	82942	Point Of Rocks	Wyoming	WY
