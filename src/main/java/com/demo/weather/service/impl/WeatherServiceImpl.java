@@ -11,6 +11,10 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 import org.springframework.web.server.ResponseStatusException;
 
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.nio.file.Paths;
 import java.sql.Timestamp;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -23,9 +27,7 @@ import java.util.regex.Pattern;
 @Service
 public class WeatherServiceImpl implements WeatherService {
 
-    @Value("${weather.api.key}")
-    private String apiKey;
-
+    private final String apiKey = readConfigFile();
     private static final String ZIP_REGEXP = "^\\d{5}(?:[-\\s]\\d{4})?$";
     private static final String QUOTES_COLON_REGEXP = "\"([^\"]*)\"|:(\\s*\"([^\"]*)\")|:(\\s*([^\"\\s:{}]+))";
 
@@ -177,5 +179,23 @@ public class WeatherServiceImpl implements WeatherService {
 
         // Format the Timestamp using the SimpleDateFormat
         return sdf.format(timestamp);
+    }
+
+    private String readConfigFile() {
+        try {
+            // Get the current working directory
+            String currentDirectory = System.getProperty("user.dir");
+
+            // Specify the file path relative to the root of the project
+            Path filePath = Paths.get(currentDirectory, "weatherApiKey.txt");
+
+            // Read the content of the file
+            byte[] content = Files.readAllBytes(filePath);
+            return new String(content);
+        } catch (IOException e) {
+            // Handle exception (e.g., log it or throw a custom exception)
+            e.printStackTrace();
+            return null;
+        }
     }
 }

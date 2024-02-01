@@ -4,6 +4,7 @@ to run this application:
 	clone this repository
 	open console
 	navigate to this project directory
+	add your key in weatherApiKey.txt
 	run 'java -jar weather-0.0.1-SNAPSHOT.jar'
 
 after successful startup:
